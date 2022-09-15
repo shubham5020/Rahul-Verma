@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ramswaroop/photography.git"
+    "url": "git+https://github.com/shubham5020/Rahul-Verma.git"
   },
   "keywords": [
     "photography",
@@ -19,12 +19,12 @@
     "portfolio",
     "portfolio website"
   ],
-  "author": "Ram Patra",
+  "author": "Shubham Sinha",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/ramswaroop/photography/issues"
+    "url": "https://github.com/shubham5020/Rahul_Verma"
   },
-  "homepage": "https://github.com/ramswaroop/photography#readme",
+  "homepage": "https://github.com/shubham5020/Rahul_Verma",
   "devDependencies": {
     "del": "^2.2.2",
     "gulp": "^3.9.1",
